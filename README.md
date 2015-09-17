@@ -1,2 +1,4 @@
 # 11.-Jacky-Efendi
-Judul Project *silahkan diganti
+Ini adalah file readme untuk proyek semester 5 Pemrograman Framework
+
+Judul proyek: Post-It Bin
